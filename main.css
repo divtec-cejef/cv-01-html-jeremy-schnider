@@ -8,5 +8,9 @@ p {
   font-size: 30 px;
 }
 header {
-  background-color: green;
+  background-color: #3498db;
+}
+body {
+  background-image: url('fondbrawl.jpg'); 
+  background-size: cover;
 }
